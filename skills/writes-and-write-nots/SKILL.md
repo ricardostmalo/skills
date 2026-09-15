@@ -5,6 +5,8 @@ description: "Decide when to write something yourself instead of having an AI dr
 
 # Writes and write-nots
 
+Read the essay itself from `sources/pg-writes-and-write-nots.txt` (run `scripts/fetch-sources.sh` once). This file is the procedure; the essay is the argument.
+
 Graham's prediction: within a few decades most people will not be able to write, because AI removes the pressure that made them learn. Writing was always hard because thinking clearly is hard, and most people only did it because a job or a school demanded it. Take away the demand and the middle disappears. What is left is people who can write and people who cannot, with nobody in between.
 
 The part that matters for this skill is why that is a loss. Writing is not a way to record thinking that already happened. It is how a certain kind of thinking happens at all. Leslie Lamport's line, which Graham quotes: if you are thinking without writing, you only think you are thinking. The people who stop writing will not just lose a skill. They will lose the thoughts they would have had while writing.

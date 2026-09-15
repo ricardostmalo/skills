@@ -5,6 +5,8 @@ description: "Make an essay or argument useful by Paul Graham's test: important,
 
 # Write usefully
 
+Read the essay itself from `sources/pg-how-to-write-usefully.txt` (run `scripts/fetch-sources.sh` once). This file is the procedure; the essay is the argument.
+
 Useful writing tells people something true and important that they did not already know, and tells it as unequivocally as possible. Graham breaks that into four things multiplied together, so a zero in any one kills the piece.
 
 ## The four

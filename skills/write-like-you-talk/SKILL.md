@@ -5,6 +5,8 @@ description: "Strip the written register out of a draft so it reads the way the 
 
 # Write like you talk
 
+Read the essay itself from `sources/pg-write-like-you-talk.txt` (run `scripts/fetch-sources.sh` once). This file is the procedure; the essay is the argument.
+
 Most people switch into a different voice when they write. The written voice is stiffer, uses words they would never say, and makes the writer feel they are conveying more than they are. Graham's claim is that the spoken voice is almost always better, and that using it puts you ahead of most writers because almost nobody does it.
 
 He gives the example of a biographer calling Picasso "the mercurial Spaniard." Nobody would say that out loud. Books are full of it.

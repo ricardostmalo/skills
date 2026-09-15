@@ -5,6 +5,8 @@ description: "Revise prose by ear until it sounds right, on the theory (Paul Gra
 
 # Good writing
 
+Read the essay itself from `sources/pg-good-writing.txt` (run `scripts/fetch-sources.sh` once). This file is the procedure; the essay is the argument.
+
 Paul Graham's claim: there are two kinds of good writing, sentences that sound good and ideas that are right, and they turn out to be the same thing more often than they should. When you rewrite a sentence to sound better, you almost never make its idea worse, and you often make it better. So sound is a usable test for truth.
 
 This skill is that test, applied.

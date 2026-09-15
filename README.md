@@ -20,6 +20,7 @@ Each skill is a study of how one person writes: sentence shape, what they lead w
 | `write-like-you-talk` | Replace the written register with what you would actually say to a friend |
 | `write-usefully` | PG's test for an essay: important, novel, correct, strong, precisely qualified |
 | `writes-and-write-nots` | When to write it yourself: if the piece is where the thinking happens, do not delegate the draft |
+| `politics-and-the-english-language` | Orwell's six rules and four vices, as an editing checklist |
 
 ## Install
 
@@ -39,7 +40,17 @@ Invoke the skill and give it what to write:
 
 ## On writing itself
 
-Four of the skills are not voices. They are Paul Graham's own essays on writing, turned into procedures: `good-writing`, `write-like-you-talk`, `write-usefully`, and `writes-and-write-nots`. They also serve as the clearest examples of the `paul-graham` voice in action. The last one is the reason this repo exists and the rule for using it: writing is thinking, so write the draft yourself and use the voices to edit.
+Five of the skills are not voices. They are essays on writing turned into procedures: four by Paul Graham (`good-writing`, `write-like-you-talk`, `write-usefully`, `writes-and-write-nots`) and Orwell's `politics-and-the-english-language`, which is where the rest descend from. The PG ones also serve as the clearest examples of the `paul-graham` voice in action. `writes-and-write-nots` is the reason this repo exists and the rule for using it: writing is thinking, so write the draft yourself and use the voices to edit.
+
+### Sources
+
+The repo does not host the essays. Run this once after cloning and the agent can read the originals:
+
+```bash
+./scripts/fetch-sources.sh
+```
+
+It downloads the five essays from paulgraham.com and orwellfoundation.com into `sources/` (gitignored). Each guide skill points at its source file.
 
 ## What these are not
 
