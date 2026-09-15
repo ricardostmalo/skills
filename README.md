@@ -16,6 +16,16 @@ Each skill is a study of how one person writes: sentence shape, what they lead w
 | `dwarkesh-patel` | Questions that drive at the crux; interview prep and probing |
 | `eliezer-yudkowsky` | Rigor about reasoning itself; dense, parenthetical, exact |
 | `gwern-branwen` | Exhaustive, footnoted, skeptical; long research writeups |
+| `patrick-mckenzie` | How a financial or business system really works, for a smart outsider |
+| `julia-evans` | Explaining a technical thing you just figured out, without condescension |
+| `dan-luu` | Testing a common belief against measurement; data-first, dry |
+| `scott-alexander` | Long essays that steelman every side before choosing |
+| `bryan-caplan` | Short combative arguments with a bet attached |
+| `ben-thompson` | Strategic analysis of a tech move through named frameworks |
+| `jeff-bezos` | Principles stated plainly with one concrete example each; memos and letters |
+| `warren-buffett` | A business explained to a smart non-financial reader, with arithmetic and jokes |
+| `hemingway` | Short sentences, concrete nouns, emotion shown not named |
+| `richard-feynman` | Explaining something hard to a smart beginner without lying |
 | `good-writing` | Revise by ear; PG's argument that prose which sounds right is more likely to be right |
 | `write-like-you-talk` | Replace the written register with what you would actually say to a friend |
 | `write-usefully` | PG's test for an essay: important, novel, correct, strong, precisely qualified |
