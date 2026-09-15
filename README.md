@@ -17,6 +17,8 @@ Each skill is a study of how one person writes: sentence shape, what they lead w
 | `eliezer-yudkowsky` | Rigor about reasoning itself; dense, parenthetical, exact |
 | `gwern-branwen` | Exhaustive, footnoted, skeptical; long research writeups |
 | `good-writing` | Revise by ear; PG's argument that prose which sounds right is more likely to be right |
+| `write-like-you-talk` | Replace the written register with what you would actually say to a friend |
+| `write-usefully` | PG's test for an essay: important, novel, correct, strong, precisely qualified |
 
 ## Install
 
@@ -33,6 +35,10 @@ Invoke the skill and give it what to write:
 ```
 /sam-altman  Write a one-paragraph answer to "what are you looking for in your next role?"
 ```
+
+## On writing itself
+
+Three of the skills are not voices. They are Paul Graham's own guides to writing, turned into procedures: `good-writing`, `write-like-you-talk`, `write-usefully`. They also serve as the clearest examples of the `paul-graham` voice in action. His essay "Writes and Write-Nots" (paulgraham.com/writes.html) is the reason this repo exists: writing is thinking, and the people who keep doing it by hand will be the ones who can still think.
 
 ## What these are not
 
