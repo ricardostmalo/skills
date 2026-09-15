@@ -26,6 +26,10 @@ Each skill is a study of how one person writes: sentence shape, what they lead w
 | `warren-buffett` | A business explained to a smart non-financial reader, with arithmetic and jokes |
 | `hemingway` | Short sentences, concrete nouns, emotion shown not named |
 | `richard-feynman` | Explaining something hard to a smart beginner without lying |
+| `lesswrong` | The forum house style: epistemic status, probabilities, cruxes, argument over person |
+| `caveman` | No articles, no tenses, two-to-five-word grunts; a joke and an editing test |
+| `pirate` | Arr. For release notes, birthdays, and September 19 |
+| `corporate` | Banking, consulting, and sales register; parody, and a hunt list for your own drafts |
 | `good-writing` | Revise by ear; PG's argument that prose which sounds right is more likely to be right |
 | `write-like-you-talk` | Replace the written register with what you would actually say to a friend |
 | `write-usefully` | PG's test for an essay: important, novel, correct, strong, precisely qualified |
