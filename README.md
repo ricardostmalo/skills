@@ -19,6 +19,7 @@ Each skill is a study of how one person writes: sentence shape, what they lead w
 | `good-writing` | Revise by ear; PG's argument that prose which sounds right is more likely to be right |
 | `write-like-you-talk` | Replace the written register with what you would actually say to a friend |
 | `write-usefully` | PG's test for an essay: important, novel, correct, strong, precisely qualified |
+| `writes-and-write-nots` | When to write it yourself: if the piece is where the thinking happens, do not delegate the draft |
 
 ## Install
 
@@ -38,7 +39,7 @@ Invoke the skill and give it what to write:
 
 ## On writing itself
 
-Three of the skills are not voices. They are Paul Graham's own guides to writing, turned into procedures: `good-writing`, `write-like-you-talk`, `write-usefully`. They also serve as the clearest examples of the `paul-graham` voice in action. His essay "Writes and Write-Nots" (paulgraham.com/writes.html) is the reason this repo exists: writing is thinking, and the people who keep doing it by hand will be the ones who can still think.
+Four of the skills are not voices. They are Paul Graham's own essays on writing, turned into procedures: `good-writing`, `write-like-you-talk`, `write-usefully`, and `writes-and-write-nots`. They also serve as the clearest examples of the `paul-graham` voice in action. The last one is the reason this repo exists and the rule for using it: writing is thinking, so write the draft yourself and use the voices to edit.
 
 ## What these are not
 
