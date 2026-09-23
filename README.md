@@ -38,6 +38,13 @@ Each voice skill is a study of how one person writes: sentence shape, what they 
 | `writes-and-write-nots` | When to write it yourself: if the piece is where the thinking happens, do not delegate the draft |
 | `politics-and-the-english-language` | Orwell's six rules and four vices, as an editing checklist |
 
+## Apple on macOS
+
+| Skill | Best for |
+|---|---|
+| `apple-notes` | Reading, editing, tagging, and creating Apple Notes from the terminal, including notes with real headings via Shortcuts |
+| `apple-reminders` | Adding, editing, completing, and deleting Apple Reminders with `reminders-cli` |
+
 ## Install
 
 ```bash
@@ -54,11 +61,11 @@ Invoke the skill and give it what to write:
 /sam-altman  Write a one-paragraph answer to "what are you looking for in your next role?"
 ```
 
-### On writing itself
+## Notes on the writing skills
 
 Five of the skills are not voices. They are essays on writing turned into procedures: four by Paul Graham (`good-writing`, `write-like-you-talk`, `write-usefully`, `writes-and-write-nots`) and Orwell's `politics-and-the-english-language`, which is where the rest descend from. The PG ones also serve as the clearest examples of the `paul-graham` voice in action. `writes-and-write-nots` is the reason this repo exists and the rule for using it: writing is thinking, so write the draft yourself and use the voices to edit.
 
-#### Sources
+### Sources
 
 The repo does not host the essays. Run this once after cloning and the agent can read the originals:
 
@@ -68,7 +75,7 @@ The repo does not host the essays. Run this once after cloning and the agent can
 
 It downloads the five essays from paulgraham.com and orwellfoundation.com into `sources/` (gitignored). Each guide skill points at its source file.
 
-### What the voices are not
+## What the voices are not
 
 They are not collections of quotes and do not reproduce anyone's text. Each file describes patterns you can observe in public writing, with short illustrative fragments. If you want the real thing, read the source: the links are in each skill.
 
