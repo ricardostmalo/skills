@@ -1,10 +1,12 @@
-# voices
+# skills
 
-Agent skills that make Claude Code (or any skills-compatible agent) write in the voice of a specific communicator.
+Agent skills for Claude Code and any other skills-compatible agent.
 
-Each skill is a study of how one person writes: sentence shape, what they lead with, what they never say, how they handle uncertainty, how they end. Use them to draft in that voice, or read them to learn what makes each writer work.
+Each skill is a folder under `skills/` with a `SKILL.md`. This README groups them by topic.
 
-## Voices
+## Writing voices
+
+Each voice skill is a study of how one person writes: sentence shape, what they lead with, what they never say, how they handle uncertainty, how they end. Use them to draft in that voice, or read them to learn what makes each writer work.
 
 | Skill | Best for |
 |---|---|
@@ -39,7 +41,7 @@ Each skill is a study of how one person writes: sentence shape, what they lead w
 ## Install
 
 ```bash
-npx skills add ricardostmalo/voices
+npx skills add ricardostmalo/skills
 ```
 
 Or copy any `skills/<name>/SKILL.md` into your project's `.claude/skills/` or `.agents/skills/`.
@@ -52,11 +54,11 @@ Invoke the skill and give it what to write:
 /sam-altman  Write a one-paragraph answer to "what are you looking for in your next role?"
 ```
 
-## On writing itself
+### On writing itself
 
 Five of the skills are not voices. They are essays on writing turned into procedures: four by Paul Graham (`good-writing`, `write-like-you-talk`, `write-usefully`, `writes-and-write-nots`) and Orwell's `politics-and-the-english-language`, which is where the rest descend from. The PG ones also serve as the clearest examples of the `paul-graham` voice in action. `writes-and-write-nots` is the reason this repo exists and the rule for using it: writing is thinking, so write the draft yourself and use the voices to edit.
 
-### Sources
+#### Sources
 
 The repo does not host the essays. Run this once after cloning and the agent can read the originals:
 
@@ -66,13 +68,13 @@ The repo does not host the essays. Run this once after cloning and the agent can
 
 It downloads the five essays from paulgraham.com and orwellfoundation.com into `sources/` (gitignored). Each guide skill points at its source file.
 
-## What these are not
+### What the voices are not
 
 They are not collections of quotes and do not reproduce anyone's text. Each file describes patterns you can observe in public writing, with short illustrative fragments. If you want the real thing, read the source: the links are in each skill.
 
 ## Contributing
 
-One voice per directory. Keep `SKILL.md` under 200 lines. Describe structure and habits, not vibes. Every claim about the voice should be something a reader could verify by reading the person.
+One skill per directory. For voices, keep `SKILL.md` under 200 lines. Describe structure and habits, not vibes. Every claim about the voice should be something a reader could verify by reading the person.
 
 ## License
 
